@@ -140,7 +140,7 @@ Your `config.json` should look like this:
 
 ```json
 {
-  "SPOTIFY_CLIENT_ID": "YOUR_CLIENT_ID",
+  "SPOTIFY_CLIENT_ID": "[YOUR_CLIENT_ID]",
   "SPOTIFY_REDIRECT_URI": "http://127.0.0.1:8888/callback",
   "SPOTIFY_SCOPES": "playlist-modify-public playlist-modify-private user-read-private"
 }
