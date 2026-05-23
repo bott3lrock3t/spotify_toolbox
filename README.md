@@ -98,7 +98,7 @@ If that doesn't resolve the issue, follow these steps:
    ```json
    {
      "SPOTIFY_CLIENT_ID": "YOUR_CLIENT_ID",
-     "SPOTIFY_REDIRECT_URI": "http://localhost:8888/callback",
+     "SPOTIFY_REDIRECT_URI": "http://127.0.0.1:8888/callback",
      "SPOTIFY_SCOPES": "playlist-modify-public playlist-modify-private user-read-private"
    }
    ```
